@@ -25,6 +25,6 @@
 
 
 	dependencies {
-	        compile 'com.github.pangrongxian:FRecyclerView:1.0'
+	        compile 'com.github.pangrongxian:FRecyclerView:1.0.2'
 	}
 
