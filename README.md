@@ -28,3 +28,11 @@
 	        compile 'com.github.pangrongxian:FRecyclerView:1.0.2'
 	}
 
+
+
+#### add it 
+
+	    <com.prx.frecyclerview.FRecyclerView
+        	android:layout_width="match_parent"
+        	android:layout_height="match_parent">
+    	</com.prx.frecyclerview.FRecyclerView>
