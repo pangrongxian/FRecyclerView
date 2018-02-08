@@ -1,4 +1,4 @@
-# Frecyclerview
+# FRecyclerView
 简洁友好的 FRecyclerview
 
 
