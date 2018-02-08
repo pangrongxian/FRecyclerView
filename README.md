@@ -72,4 +72,22 @@
     }
 
 
+------
+
+
+     private void initData() {
+
+        // mDataList.add("0");
+        // mDataList.add("1");
+        // mDataList.add("2");
+        // mDataList.add("3");
+
+        /**
+         * 调用 refresh（）方法时候，且数据源List为0条，才显示空布局
+         */
+        adapter.refresh(mDataList);
+
+    }
+
+
 ![](http://ww1.sinaimg.cn/large/006rIajegy1fo91tnjadlj30a00hs3yh.jpg)

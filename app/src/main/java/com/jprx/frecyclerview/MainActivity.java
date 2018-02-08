@@ -58,10 +58,10 @@ public class MainActivity extends AppCompatActivity {
 
     private void initData() {
 
-        mDataList.add("0");
-        mDataList.add("1");
-        mDataList.add("2");
-        mDataList.add("3");
+//        mDataList.add("0");
+//        mDataList.add("1");
+//        mDataList.add("2");
+//        mDataList.add("3");
 
         /**
          * 调用 refresh（）方法时候，且数据源List为0条，才显示空布局
