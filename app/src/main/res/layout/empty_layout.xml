@@ -4,14 +4,12 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <com.prx.frecyclerview.FRecyclerView
-        android:id="@+id/recycler_view"
+    <TextView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"/>
-
-    <include
-        android:id="@+id/empty_view"
-        layout="@layout/empty_layout"
-        android:visibility="gone"/>
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:textSize="22dp"
+        android:text="空布局"
+        android:background="#FFD0D2CF"/>
 
 </LinearLayout>
